@@ -48,9 +48,6 @@ I'm a Computer Engineering student, passionate about full-stack development, mob
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
 **Design**  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 **Databases**  
