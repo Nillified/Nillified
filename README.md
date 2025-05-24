@@ -23,10 +23,26 @@ I'm a Computer Engineering student, passionate about full-stack development, mob
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** TypeScript, Python, Java, Rust, C, C++, Swift  
-**Frontend:** React (Next.js), Expo, Angular.js, Vue.js  
-**Backend:** Node.js, Flask, SQLite  
-**DevOps & Tools:** Docker, GCP, AWS, Azure DevOps, JIRA  
-**Other:** OpenAI API, Unity, OpenCV, STM32
+**Languages:**
+JavaScript TypeScript Java C C# C++ Python Rust HTML5 CSS3
 
-Thanks for stopping by!
+**Backend Skills:**
+NodeJS Spring Flask
+
+**Frontend Skills:**
+React Redux Next JS Expo Vue.js Angular
+
+**Design Skills:**
+Bootstrap MUI Styled Components TailwindCSS
+
+**Database Skills:**
+SQLite MongoDB Postgres AmazonDynamoDB
+
+**Others:**
+Swagger JIRA
+
+**Deployment Skills:**
+Heroku AWS Docker Azure DevOps 
+
+**Systems:**
+Windows macOS Linux
